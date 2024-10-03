@@ -1,9 +1,3 @@
-// import 'package:bloc/bloc.dart';
-
-// class AddCubit extends Cubit<AddState> {
-//   AddCubit() : super(AddInitialState());
-// }
-
 import 'package:bloc/bloc.dart';
 import 'package:flutter/material.dart';
 import 'package:myapp/presentations/bloc/add_state.dart';
